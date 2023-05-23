@@ -1,0 +1,7 @@
+C:\Users\Rosen\source\repos\Football Model\Football Model\bin\Debug\Football Model.exe.config
+C:\Users\Rosen\source\repos\Football Model\Football Model\bin\Debug\Football Model.exe
+C:\Users\Rosen\source\repos\Football Model\Football Model\bin\Debug\Football Model.pdb
+C:\Users\Rosen\source\repos\Football Model\Football Model\obj\Debug\Football Model.csproj.AssemblyReference.cache
+C:\Users\Rosen\source\repos\Football Model\Football Model\obj\Debug\Football Model.csproj.CoreCompileInputs.cache
+C:\Users\Rosen\source\repos\Football Model\Football Model\obj\Debug\Football Model.exe
+C:\Users\Rosen\source\repos\Football Model\Football Model\obj\Debug\Football Model.pdb
